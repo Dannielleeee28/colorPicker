@@ -10,8 +10,7 @@ A minimal React app that lets users pick a color using an input and displays the
 - Built with **React** + **CSS**
 
 ## 🌐 Preview
-
-[![Color Picker Screenshot](./src/assets/DMBLogo.png) <!-- You can change or remove this if you don't have a preview image -->](https://dannielleeee28.github.io/colorPicker/)
+(https://dannielleeee28.github.io/colorPicker/
 
 ## 🛠️ Built With
 
